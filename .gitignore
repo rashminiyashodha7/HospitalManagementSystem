@@ -1,0 +1,7 @@
+# Visual Studio
+.vs/\n*.suo\n*.user\n*.userprefs\n*.tlog/\n*.cache\n*.db\n*.sln.docstates\n\n# Build Results
+[Dd]ebug/\n[Rr]elease/\n[Bb]in/\n[Oo]bj/\n\n# Visual Studio 2015/2017 cache/options folder
+.vs/\n\n# Rider
+.idea/\n\n# User-specific files
+*.suo\n*.user\n*.userprefs\n\n# Build directories
+bin/\nobj/\n
